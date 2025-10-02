@@ -17,6 +17,7 @@ Progress
 
 
 Why this repo?
+
 ~ To track my learning progress.  
 ~ To share fun mini-projects with others.  
 ~ To stay accountable on my 100 Days of Code journey.  
