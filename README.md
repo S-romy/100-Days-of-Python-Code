@@ -1,5 +1,4 @@
 # 100-Days-of-Python-Code
-Tracking my progress as I learn python coding with Dr. Angela Yu.
 This repository contains all my projects from the 100 Days of Code Python challenge. 
 Each day, I take on a new challenge to improve my coding skills, explore creative solutions, and build fun, interactive projects.
 This is a playground for experimenting, learning, and discovering what python can do.
