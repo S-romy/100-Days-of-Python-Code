@@ -23,4 +23,4 @@ Why this repo?
 ~ To stay accountable on my 100 Days of Code journey.  
 
 
-Follow along as I navigate and grow one project at a time!
+Follow along as I navigate this journey and grow one project at a time!
