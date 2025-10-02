@@ -1,6 +1,20 @@
 # 100-Days-of-Python-Code
-This repository contains all my projects from the 100 Days of Code Python challenge. 
-Each day, I take on a new challenge to improve my coding skills, explore creative solutions, and build fun, interactive projects.
-This is a playground for experimenting, learning, and discovering what python can do.
-The goal of this challenge is to improve my coding skills, develop a strong portfolio, and track my progress over 100 days. 
-Dive in, explore the projects, and follow my coding journey as I tackle a new challenge every single day!
+Welcome to my 100 Days of Code in Python journey!  
+Every day, I build a new project from fun beginner challenges to more advanced programs.  
+
+Explore each day’s file to see the project code.  
+My goal: Improve daily through consistent coding practice.  
+
+Progress
+✅ Day 1: Band Name Generator  
+✅ Day 2: Tip Calculator  
+✅ Day 3: Treasure Island Game  
+...  
+🔄 Day 100: Coming soon!  
+
+Why this repo?
+~ To track my learning progress.  
+~ To share fun mini-projects with others.  
+~ To stay accountable on my 100 Days of Code journey.  
+
+Follow along as I navigate and grow one project at a time!
