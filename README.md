@@ -6,6 +6,7 @@ Explore each day’s file to see the project code.
 My goal: Improve daily through consistent coding practice.  
 
 Progress
+
 ✅ Day 1: Band Name Generator  
 ✅ Day 2: Tip Calculator  
 ✅ Day 3: Treasure Island Game  
