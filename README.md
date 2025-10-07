@@ -9,13 +9,16 @@ My goal: Improve daily through consistent coding practice.
 
 Progress
 
-✅ Day 1: Band Name Generator  
+✅ Day 1: Band Name Generator 
+
 ✅ Day 2: Tip Calculator  
+
 ✅ Day 3: Treasure Island Game
 
 ✅ Day 4: Rock, Paper and Scissors Game
 
 ✅ Day 5: PyPassword Generator
+
 ...  
 🔄 Day 100: Coming soon!  
 
