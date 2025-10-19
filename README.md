@@ -19,6 +19,8 @@ Progress
 
 ✅ Day 5: PyPassword Generator
 
+✅ Day 6: Reeborg's World Beginners Challenge
+
 ...  
 🔄 Day 100: Coming soon!  
 
