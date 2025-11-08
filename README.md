@@ -21,6 +21,8 @@ Progress
 
 ✅ Day 6: Reeborg's World Beginners Challenge
 
+✅ Day 7: Hangman Game
+
 ...  
 🔄 Day 100: Coming soon!  
 
