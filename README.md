@@ -23,6 +23,8 @@ Progress
 
 ✅ Day 7: Hangman Game
 
+✅ Day 8: Caesar Cypher
+
 ...  
 🔄 Day 100: Coming soon!  
 
