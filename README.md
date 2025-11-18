@@ -25,6 +25,8 @@ Progress
 
 ✅ Day 8: Caesar Cipher
 
+✅ Day 9: Secret Auction
+
 ...  
 🔄 Day 100: Coming soon!  
 
