@@ -27,6 +27,8 @@ Progress
 
 ✅ Day 9: Secret Auction
 
+✅ Day 10: Py Calculator
+
 ...  
 🔄 Day 100: Coming soon!  
 
