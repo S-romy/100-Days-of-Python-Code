@@ -29,6 +29,8 @@ Progress
 
 ✅ Day 10: Py Calculator
 
+✅ Day 11: Capstone Blackjack Project
+
 ...  
 🔄 Day 100: Coming soon!  
 
