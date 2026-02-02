@@ -31,6 +31,8 @@ Progress
 
 ✅ Day 11: Capstone Blackjack Project
 
+✅ Day 12: Number Guessing Game
+
 ...  
 🔄 Day 100: Coming soon!  
 
