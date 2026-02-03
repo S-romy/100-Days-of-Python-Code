@@ -33,6 +33,8 @@ Progress
 
 ✅ Day 12: Number Guessing Game
 
+✅ Day 13: Debugging Techniques
+
 ...  
 🔄 Day 100: Coming soon!  
 
