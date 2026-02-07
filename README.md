@@ -35,6 +35,8 @@ Progress
 
 ✅ Day 13: Debugging Techniques
 
+✅ Day 14: Higher Lower Game
+
 ...  
 🔄 Day 100: Coming soon!  
 
