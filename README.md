@@ -37,6 +37,8 @@ Progress
 
 ✅ Day 14: Higher Lower Game
 
+✅ Day 15: Coffee Machine
+
 ...  
 🔄 Day 100: Coming soon!  
 
