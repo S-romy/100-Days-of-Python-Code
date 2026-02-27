@@ -41,6 +41,8 @@ Progress
 
 ✅ Day 16: OOP Coffee Machine
 
+✅ Day 17: Quiz Game
+
 ...  
 🔄 Day 100: Coming soon!  
 
