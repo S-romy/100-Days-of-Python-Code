@@ -43,6 +43,8 @@ Progress
 
 ✅ Day 17: Quiz Game
 
+✅ Day 18: Hirst Painting Program
+
 ...  
 🔄 Day 100: Coming soon!  
 
