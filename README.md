@@ -45,6 +45,8 @@ Progress
 
 ✅ Day 18: Hirst Painting Program
 
+✅ Day 19: Turtle Racing Game
+
 ...  
 🔄 Day 100: Coming soon!  
 
