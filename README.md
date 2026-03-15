@@ -47,6 +47,8 @@ Progress
 
 ✅ Day 19: Turtle Racing Game
 
+✅ Day 20: Snake Game I
+
 ...  
 🔄 Day 100: Coming soon!  
 
