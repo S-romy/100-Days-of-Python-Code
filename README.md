@@ -49,6 +49,8 @@ Progress
 
 ✅ Day 20: Snake Game I
 
+✅ Day 21: Snake Game II
+
 ...  
 🔄 Day 100: Coming soon!  
 
