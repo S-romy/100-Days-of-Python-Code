@@ -9,7 +9,7 @@ My goal: Improve daily through consistent coding practice.
 
 Progress
 
-✅ Day 1: Band Name Generator 
+✅ Day 1: Band Name Generator
 
 ✅ Day 2: Tip Calculator  
 
@@ -50,6 +50,8 @@ Progress
 ✅ Day 20: Snake Game I
 
 ✅ Day 21: Snake Game II
+
+✅ Day 22: The Pong Game
 
 ...  
 🔄 Day 100: Coming soon!  
