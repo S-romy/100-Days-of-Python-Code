@@ -53,6 +53,8 @@ Progress
 
 ✅ Day 22: The Pong Game
 
+✅ Day 23: Turtle Crossing Game
+
 ...  
 🔄 Day 100: Coming soon!  
 
