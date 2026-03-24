@@ -55,6 +55,10 @@ Progress
 
 ✅ Day 23: Turtle Crossing Game
 
+✅ Day 24 I: Snake Game III
+
+✅ Day 24 II: Mail Merge Project
+
 ...  
 🔄 Day 100: Coming soon!  
 
