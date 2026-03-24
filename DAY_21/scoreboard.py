@@ -6,7 +6,7 @@ FONT = ("Courier", 16, "normal")
 class Scoreboard(Turtle):
 
     def __init__(self):
-        super(Scoreboard, self).__init__()
+        super().__init__()
         self.score = 0
         self.color("white")
         self.hideturtle()
