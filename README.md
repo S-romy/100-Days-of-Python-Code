@@ -59,6 +59,8 @@ Progress
 
 ✅ Day 24 II: Mail Merge Project
 
+✅ Day 25: Guess the State Game
+
 ...  
 🔄 Day 100: Coming soon!  
 
