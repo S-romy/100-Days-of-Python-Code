@@ -61,6 +61,8 @@ Progress
 
 ✅ Day 25: Guess the State Game
 
+✅ Day 26: Nato Alphabet Program
+
 ...  
 🔄 Day 100: Coming soon!  
 
