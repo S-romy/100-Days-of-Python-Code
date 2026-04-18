@@ -63,6 +63,8 @@ Progress
 
 ✅ Day 26: Nato Alphabet Program
 
+✅ Day 27: Pomodoro Timer
+
 ...  
 🔄 Day 100: Coming soon!  
 
