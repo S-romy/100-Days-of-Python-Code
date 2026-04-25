@@ -67,7 +67,9 @@ Progress
 
 ✅ Day 28: Pomodoro Timer
 
-✅ Day 29: Password Manager
+✅ Day 29: Password Manager I
+
+✅ Day 30: Password Manager II
 
 ...  
 🔄 Day 100: Coming soon!  
