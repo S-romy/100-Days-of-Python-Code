@@ -71,6 +71,8 @@ Progress
 
 ✅ Day 30: Password Manager II
 
+✅ Day 31: Flashcard App
+
 ...  
 🔄 Day 100: Coming soon!  
 
