@@ -73,6 +73,9 @@ Progress
 
 ✅ Day 31: Flashcard App
 
+✅ Day 32: Birthday Wisher
+
+
 ...  
 🔄 Day 100: Coming soon!  
 
