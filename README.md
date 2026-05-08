@@ -75,6 +75,10 @@ Progress
 
 ✅ Day 32: Birthday Wisher
 
+✅ Day 33 I: API Quotes
+
+✅ Day 33 II: ISS Alert System
+
 
 ...  
 🔄 Day 100: Coming soon!  
