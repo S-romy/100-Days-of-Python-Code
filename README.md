@@ -79,6 +79,8 @@ Progress
 
 ✅ Day 33 II: ISS Alert System
 
+✅ Day 34: Quizzler Game: UI Quiz Game
+
 
 ...  
 🔄 Day 100: Coming soon!  
