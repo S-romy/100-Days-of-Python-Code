@@ -81,6 +81,10 @@ Progress
 
 ✅ Day 34: Quizzler Game: UI Quiz Game
 
+✅ Day 35: Rain Alert System
+
+✅ Day 36: Stocks Alert System
+
 
 ...  
 🔄 Day 100: Coming soon!  
