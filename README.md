@@ -85,6 +85,8 @@ Progress
 
 ✅ Day 36: Stocks Alert System
 
+✅ Day 37: Habit Tracker
+
 
 ...  
 🔄 Day 100: Coming soon!  
