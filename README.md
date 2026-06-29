@@ -87,6 +87,8 @@ Progress
 
 ✅ Day 37: Habit Tracker
 
+✅ Day 38: Workout Tracker
+
 
 ...  
 🔄 Day 100: Coming soon!  
