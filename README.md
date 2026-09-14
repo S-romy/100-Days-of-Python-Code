@@ -89,6 +89,8 @@ Progress
 
 ✅ Day 38: Workout Tracker
 
+✅ Day 39: Flight Deal Finder
+
 
 ...  
 🔄 Day 100: Coming soon!  
