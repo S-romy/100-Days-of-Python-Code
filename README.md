@@ -91,6 +91,8 @@ Progress
 
 ✅ Day 39: Flight Deal Finder
 
+✅ Day 40: The Flight Club
+
 
 ...  
 🔄 Day 100: Coming soon!  
