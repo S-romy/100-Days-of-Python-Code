@@ -93,6 +93,20 @@ Progress
 
 ✅ Day 40: The Flight Club
 
+✅ Day 41: Movie Ranking Project
+
+✅ Day 42: Birthday Invite Website
+
+✅ Day 43: Colour Vocab Website
+
+✅ Day 44: Motivational Poster Website
+
+✅ Day 45: 100 Movies You Must Watch Project
+
+✅ Day 46: Billboard Hot 100 Youtube Music Playlist
+
+✅ Day 47: Automated Amazon Price Tracker
+
 
 ...  
 🔄 Day 100: Coming soon!  
